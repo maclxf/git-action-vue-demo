@@ -1,6 +1,6 @@
 {
   "name": "git-action-vue-demo",
-  "homepage": "https://maclxf.github.io/github-actions-demo",
+  "homepage": "https://maclxf.github.io/git-action-vue-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
